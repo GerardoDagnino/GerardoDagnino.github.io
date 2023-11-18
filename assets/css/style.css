@@ -442,7 +442,7 @@ section {
   width: 100%;
   position: relative;
   text-align: center;
-  background: rgb(198, 221, 216);
+  background: rgba(255, 255, 255, 0)040;
 }
 
 .facts .count-box i {
@@ -452,7 +452,7 @@ section {
   transform: translateX(-50%);
   font-size: 24px;
   background: #0563bb;
-  color: rgb(198, 221, 216);
+  color: #ffffff00;
   border-radius: 50px;
   display: inline-flex;
   align-items: center;
