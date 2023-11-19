@@ -161,7 +161,7 @@ h6 {
 
 .nav-menu>ul>li {
   position: relative;
-  background: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0);
 }
 
 .nav-menu a,
